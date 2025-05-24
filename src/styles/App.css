@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter;
+  background-color: #cfbce0;
+  color: #311847;
+}
+
+.card {
+  margin-top: 30px;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 7px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  padding: 40px;
+  width: 300px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card .name {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 24px;
+  color: #311847;
+}
+
+.card .card-para {
+  margin-top: 20px;
+}
+
+.card .card-para p {
+  font-size: 16px;
+}
+
+.card p strong {
+  color: #311847;
+}
+
+.card .card-para .details-btn {
+  margin: 15px 0;
+  padding: 8px 18px;
+  background-color: transparent;
+  color: #311847;
+  border: 1px solid #311847;
+  transition: 0.4s ease all;
+}
+
+.card .card-para .details-btn:hover {
+  background-color: #311847;
+  color: white;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  gap: 20px;
+}
+
+.card p:last-child {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+
+.edit-btn {
+  margin: 15px 10px;
+  padding: 8px 18px;
+  background-color: transparent;
+  color: #311847;
+  border: 1px solid #311847;
+  transition: 0.4s ease all;
+}
+
+.edit-btn:hover {
+  background-color: #311847;
+  color: white;
+  cursor: pointer;
+}
+
+
+.save-btn {
+  padding: 8px 18px;
+  background-color: transparent;
+  color: #311847;
+  border: 1px solid #311847;
+  transition: 0.4s ease all;
+}
+
+
+.save-btn:hover {
+  background-color: #311847;
+  color: white;
+  cursor: pointer;
+}
+
+.cancel-btn {
+  margin-left: 10px;
+  padding: 8px 18px;
+  background-color: transparent;
+  color: #311847;
+  border: 1px solid #311847;
+  transition: 0.4s ease all;
+}
+
+
+.cancel-btn:hover {
+  background-color: #311847;
+  color: white;
+  cursor: pointer;
+}

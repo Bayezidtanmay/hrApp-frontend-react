@@ -1,0 +1,135 @@
+export const employees = [
+    {
+      id: 1,
+      name: "Aino Virtanen",
+      title: "HR Manager",
+      salary: 4200,
+      phone: "040-1234567",
+      email: "aino.virtanen@example.com",
+      animal: "Owl",
+      startDate: "2018-04-01",
+      location: "Helsinki",
+      department: "Human Resources",
+      skills: ["Recruiting", "Communication", "Employee Relations"]
+    },
+    {
+      id: 2,
+      name: "Mika Lehtinen",
+      title: "Software Developer",
+      salary: 5000,
+      phone: "050-2345678",
+      email: "mika.lehtinen@example.com",
+      animal: "Dog",
+      startDate: "2020-08-15",
+      location: "Espoo",
+      department: "Engineering",
+      skills: ["JavaScript", "React", "Node.js"]
+    },
+    {
+      id: 3,
+      name: "Sanna Korhonen",
+      title: "Marketing Lead",
+      salary: 4700,
+      phone: "040-9876543",
+      email: "sanna.korhonen@example.com",
+      animal: "Cat",
+      startDate: "2013-05-01",
+      location: "Helsinki",
+      department: "Marketing",
+      skills: ["SEO", "Campaigns", "Analytics"]
+    },
+    {
+      id: 4,
+      name: "Jari Niemi",
+      title: "IT Support",
+      salary: 3500,
+      phone: "045-1234321",
+      email: "jari.niemi@example.com",
+      animal: "Rabbit",
+      startDate: "2023-12-01",
+      location: "Tampere",
+      department: "IT",
+      skills: ["Networking", "Helpdesk", "Windows"]
+    },
+    {
+      id: 5,
+      name: "Elina Mäkinen",
+      title: "Product Manager",
+      salary: 5300,
+      phone: "041-5678910",
+      email: "elina.makinen@example.com",
+      animal: "Fox",
+      startDate: "2010-05-01",
+      location: "Oulu",
+      department: "Product",
+      skills: ["Leadership", "Strategy", "UX"]
+    },
+    {
+      id: 6,
+      name: "Tommi Rautio",
+      title: "Designer",
+      salary: 4100,
+      phone: "046-1112233",
+      email: "tommi.rautio@example.com",
+      animal: "Bear",
+      startDate: "2024-11-15",
+      location: "Turku",
+      department: "Design",
+      skills: ["Figma", "Illustrator", "Branding"]
+    },
+    {
+      id: 7,
+      name: "Paula Salmi",
+      title: "Finance Specialist",
+      salary: 4800,
+      phone: "050-0001112",
+      email: "paula.salmi@example.com",
+      animal: "Elephant",
+      startDate: "2019-01-20",
+      location: "Helsinki",
+      department: "Finance",
+      skills: ["Accounting", "Budgeting", "Reporting"]
+    },
+    {
+      id: 8,
+      name: "Antti Vainio",
+      title: "QA Engineer",
+      salary: 4400,
+      phone: "043-3332221",
+      email: "antti.vainio@example.com",
+      animal: "Hedgehog",
+      startDate: "2015-05-01",
+      location: "Espoo",
+      department: "Quality Assurance",
+      skills: ["Testing", "Automation", "Jest"]
+    },
+    {
+      id: 9,
+      name: "Lotta Saarinen",
+      title: "Customer Success Manager",
+      salary: 4600,
+      phone: "049-4445556",
+      email: "lotta.saarinen@example.com",
+      animal: "Penguin",
+      startDate: "2024-12-01",
+      location: "Tampere",
+      department: "Customer Success",
+      skills: ["CRM", "Support", "Retention"]
+    },
+    {
+      id: 10,
+      name: "Janne Koskinen",
+      title: "DevOps Engineer",
+      salary: 5200,
+      phone: "048-9990007",
+      email: "janne.koskinen@example.com",
+      animal: "Wolf",
+      startDate: "2015-05-01",
+      location: "Oulu",
+      department: "Engineering",
+      skills: ["CI/CD", "AWS", "Kubernetes"]
+    }
+  ];
+  
+  export default employees;
+  

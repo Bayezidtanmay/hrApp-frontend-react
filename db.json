@@ -1,0 +1,444 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Aino Virtanen",
+      "title": "HR Manager",
+      "salary": 59,
+      "phone": "040-1234567",
+      "email": "aino.virtanen@example.com",
+      "animal": "Owl",
+      "startDate": "2018-04-01",
+      "location": "Rovaniem",
+      "department": "Human Resource",
+      "skills": [
+        "Recruiting",
+        "Communication",
+        "Employee Relations"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mika Lehtinen",
+      "title": "Software Developer",
+      "salary": 5000,
+      "phone": "050-2345678",
+      "email": "mika.lehtinen@example.com",
+      "animal": "Dog",
+      "startDate": "2020-08-15",
+      "location": "Lahti",
+      "department": "Engineerin",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sanna Korhonen",
+      "title": "Marketing Lead",
+      "salary": 4700,
+      "phone": "040-9876543",
+      "email": "sanna.korhonen@example.com",
+      "animal": "Cat",
+      "startDate": "2013-05-01",
+      "location": "Helsinki",
+      "department": "Marketing",
+      "skills": [
+        "SEO",
+        "Campaigns",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Jari Niemi",
+      "title": "IT Support",
+      "salary": 3500,
+      "phone": "045-1234321",
+      "email": "jari.niemi@example.com",
+      "animal": "Rabbit",
+      "startDate": "2023-12-01",
+      "location": "Tampere",
+      "department": "IT",
+      "skills": [
+        "Networking",
+        "Helpdesk",
+        "Windows"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Elina Mäkinen",
+      "title": "Product Manager",
+      "salary": 5300,
+      "phone": "041-5678910",
+      "email": "elina.makinen@example.com",
+      "animal": "Fox",
+      "startDate": "2010-05-01",
+      "location": "Oulu",
+      "department": "Product",
+      "skills": [
+        "Leadership",
+        "Strategy",
+        "UX"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Tommi Rautio",
+      "title": "Designer",
+      "salary": 4100,
+      "phone": "046-1112233",
+      "email": "tommi.rautio@example.com",
+      "animal": "Bear",
+      "startDate": "2024-11-15",
+      "location": "Turku",
+      "department": "Design",
+      "skills": [
+        "Figma",
+        "Illustrator",
+        "Branding"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Paula Salmi",
+      "title": "Finance Specialist",
+      "salary": 4800,
+      "phone": "050-0001112",
+      "email": "paula.salmi@example.com",
+      "animal": "Elephant",
+      "startDate": "2019-01-20",
+      "location": "Helsink",
+      "department": "Finance",
+      "skills": [
+        "Accounting",
+        "Budgeting",
+        "Reporting"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Antti Vainio",
+      "title": "QA Engineer",
+      "salary": 4400,
+      "phone": "043-3332221",
+      "email": "antti.vainio@example.com",
+      "animal": "Hedgehog",
+      "startDate": "2015-05-01",
+      "location": "Espoo",
+      "department": "Quality Assurance",
+      "skills": [
+        "Testing",
+        "Automation",
+        "Jest"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Lotta Saarinen",
+      "title": "Customer Success Manager",
+      "salary": 4600,
+      "phone": "049-4445556",
+      "email": "lotta.saarinen@example.com",
+      "animal": "Penguin",
+      "startDate": "2024-12-01",
+      "location": "Tampere",
+      "department": "Customer Success",
+      "skills": [
+        "CRM",
+        "Support",
+        "Retention"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Janne Koskinen",
+      "title": "DevOps Engineer",
+      "salary": 5200,
+      "phone": "048-9990007",
+      "email": "janne.koskinen@example.com",
+      "animal": "Wolf",
+      "startDate": "2015-05-01",
+      "location": "Oulu",
+      "department": "Engineering",
+      "skills": [
+        "CI/CD",
+        "AWS",
+        "Kubernetes"
+      ]
+    },
+    {
+      "id": "1747145313899",
+      "name": "Bayezid Rahman Tanmay",
+      "title": "yjg",
+      "salary": 3200,
+      "phone": "0417186259",
+      "email": "bayzidtonmoy123@gmail.com",
+      "animal": "Cat",
+      "startDate": "",
+      "location": "Riihimäki",
+      "department": "HR",
+      "skills": [
+        "Reading"
+      ]
+    },
+    {
+      "id": "1747146150768",
+      "name": "tanmay",
+      "title": "rt",
+      "salary": 3432,
+      "phone": "0417186259",
+      "email": "bayzidtonmoy123@gmail.com",
+      "animal": "Cat",
+      "startDate": "2025-05-11",
+      "location": "Riihimäki",
+      "department": "HR",
+      "skills": [
+        "Reading"
+      ]
+    },
+    {
+      "id": "1747146927518",
+      "name": "Rahman",
+      "title": "Boss",
+      "salary": 5678,
+      "phone": "0417186259",
+      "email": "bayzidtonmoy123@gmail.com",
+      "animal": "dog",
+      "startDate": "2018-06-13",
+      "location": "Riihimäki",
+      "department": "HR",
+      "skills": [
+        "Reading"
+      ]
+    },
+    {
+      "id": "1747147875668",
+      "name": "Bayezid Rahman Tanmay",
+      "title": " bn",
+      "salary": 3200,
+      "phone": "0417186259",
+      "email": "bayzidtonmoy123@gmail.com",
+      "animal": "Cat",
+      "startDate": "2025-05-30",
+      "location": "Riihimäki",
+      "department": "HR",
+      "skills": [
+        "nn"
+      ]
+    },
+    {
+      "id": "1747148010800",
+      "name": "rico",
+      "title": "ceo",
+      "salary": 2345,
+      "phone": "+765432657",
+      "email": "bayzidtonmoy123@gmail.com",
+      "animal": "dog",
+      "startDate": "2025-05-11",
+      "location": "Riihimäki",
+      "department": "HR",
+      "skills": [
+        "Reading"
+      ]
+    },
+    {
+      "id": "1747226322257",
+      "name": "Majad",
+      "title": "Cleaner",
+      "salary": 2000,
+      "phone": "+09876567",
+      "email": "majad@gmail.com",
+      "animal": "Horse",
+      "startDate": "2025-05-16",
+      "location": "Helsinki",
+      "department": "Cleaning",
+      "skills": [
+        "Cleaning"
+      ]
+    },
+    {
+      "id": "1747646093268",
+      "name": "Antti Valkeinen",
+      "title": "Manager",
+      "salary": 2200,
+      "phone": "0417186259",
+      "email": "antti.valkeinen@gmail.com",
+      "animal": "Horse",
+      "startDate": "2015-10-15",
+      "location": "Tampere",
+      "department": "Tourism",
+      "skills": [
+        "Management"
+      ]
+    },
+    {
+      "id": "1747651844314",
+      "name": "Upton Hogan",
+      "title": "Anim rem fugiat tem",
+      "salary": 71,
+      "phone": "+1 (353) 149-9937",
+      "email": "puvyzy@mailinator.com",
+      "animal": "Quia consequatur Sa",
+      "startDate": "2000-11-22",
+      "location": "Quisquam dolorem sun",
+      "department": "Nemo architecto quib",
+      "skills": [
+        "Blanditiis eiusmod u"
+      ]
+    },
+    {
+      "id": "1747652054565",
+      "name": "Anne Wong",
+      "title": "Voluptate in deserun",
+      "salary": 40,
+      "phone": "+1 (463) 992-9277",
+      "email": "fufekaheha@mailinator.com",
+      "animal": "Eum esse nulla sunt",
+      "startDate": "1992-05-08",
+      "location": "Et quas quis asperio",
+      "department": "Perferendis maiores ",
+      "skills": [
+        "Ut aliquid libero ip"
+      ]
+    },
+    {
+      "id": "1747652471209",
+      "name": "Hector Thornton",
+      "title": "Incididunt quo duis ",
+      "salary": 33,
+      "phone": "+1 (463) 715-5566",
+      "email": "honu@mailinator.com",
+      "animal": "Eos sed duis quibus",
+      "startDate": "2013-12-29",
+      "location": "Exercitationem sit v",
+      "department": "Dolore aute doloremq",
+      "skills": [
+        "Velit enim reiciend"
+      ]
+    },
+    {
+      "id": "1747652498643",
+      "name": "Anika Jensen",
+      "title": "Placeat repellendus",
+      "salary": 86,
+      "phone": "+1 (135) 937-4425",
+      "email": "rezovake@mailinator.com",
+      "animal": "In officiis minim be",
+      "startDate": "1977-12-19",
+      "location": "Laborum Atque eos ",
+      "department": "Quas deserunt molest",
+      "skills": [
+        "Veniam cillum esse"
+      ]
+    },
+    {
+      "id": "1747652542859",
+      "name": "Pascale Carr",
+      "title": "Aut sunt sit proide",
+      "salary": 41,
+      "phone": "+1 (795) 727-6101",
+      "email": "pemahaq@mailinator.com",
+      "animal": "Nulla nulla ut enim ",
+      "startDate": "2009-05-28",
+      "location": "Ea nulla quae at sit",
+      "department": "Rerum quasi exercita",
+      "skills": [
+        "Sed atque deleniti n"
+      ]
+    },
+    {
+      "id": "1747652569741",
+      "name": "Simone Gray",
+      "title": "Iste omnis beatae do",
+      "salary": 71,
+      "phone": "+1 (526) 529-9864",
+      "email": "kotifary@mailinator.com",
+      "animal": "Aliquam aliqua Est",
+      "startDate": "1992-11-14",
+      "location": "Natus iste aut obcae",
+      "department": "Mollit ut voluptatib",
+      "skills": [
+        "Quaerat fugit repre"
+      ]
+    },
+    {
+      "id": "1747739170849",
+      "name": "Thor Morse",
+      "title": "Ut modi nulla qui ul",
+      "salary": 20,
+      "phone": "+1 (838) 263-8277",
+      "email": "tesezyqe@mailinator.com",
+      "animal": "Animi commodo et re",
+      "startDate": "2002-07-23",
+      "location": "Harum et et quia rer",
+      "department": "Illum aspernatur am",
+      "skills": [
+        "Aute harum voluptas"
+      ]
+    },
+    {
+      "id": "1747999953369",
+      "name": "Byron Rose",
+      "title": "Ut eu cumque eu iure",
+      "salary": 37,
+      "phone": "+1 (526) 968-1204",
+      "email": "kugecinopu@mailinator.com",
+      "animal": "Anim ea cumque eum n",
+      "startDate": "2024-10-09",
+      "location": "Consectetur volupta",
+      "department": "Numquam esse ex iust",
+      "skills": [
+        "Similique omnis face"
+      ]
+    },
+    {
+      "id": "1748003166195",
+      "name": "Olympia Sparks",
+      "title": "Quia blanditiis hic ",
+      "salary": 85,
+      "phone": "+1 (258) 882-5598",
+      "email": "vulux@mailinator.com",
+      "animal": "Cillum ullam minus c",
+      "startDate": "2001-03-14",
+      "location": "Impedit veniam sun",
+      "department": "Enim excepteur lorem",
+      "skills": [
+        "Consequatur est quis"
+      ]
+    },
+    {
+      "id": "1748004321187",
+      "name": "Tate Harrison",
+      "title": "Praesentium ipsum l",
+      "salary": 33,
+      "phone": "+1 (256) 115-3789",
+      "email": "tyzymurati@mailinator.com",
+      "animal": "Reprehenderit eos l",
+      "startDate": "2014-08-30",
+      "location": "Quae praesentium cum",
+      "department": "Neque corrupti labo",
+      "skills": [
+        "Cumque eum voluptate"
+      ]
+    },
+    {
+      "id": 1748083954200,
+      "name": "Cassady Rivas",
+      "title": "Doloremque omnis et ",
+      "salary": 7,
+      "phone": "+1 (526) 444-2309",
+      "email": "lygelahyv@mailinator.com",
+      "animal": "Error qui incididunt",
+      "startDate": "2009-10-22",
+      "location": "Sit rerum laborum qu",
+      "department": "Cillum aliquid eaque",
+      "skills": [
+        "Neque enim quis anim"
+      ]
+    }
+  ]
+}
